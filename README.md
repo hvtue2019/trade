@@ -20,7 +20,7 @@ The goal of this project is to create a full-screen trading interface for [Binar
         $ npm run build #compiles the project
         $ npm start #Start a local server and serve the compiled files
 
-Running this command will launch local server at http://localhost:9001
+Running this command will launch local server at http://localhost
 
 Since backend needs an https web address for **oauth app register** if you intend to debug oauth login on localhost,  you need to modify your `/etc/hosts` file. For example the `https://webtrader.local/` token in `src/oauth/app_id.josn` is registered to `https://webtrader.local/` address, you need to do the following in order to use it locally.
 
