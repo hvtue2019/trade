@@ -76,7 +76,7 @@
     "binary-com-jquery-ui-timepicker": "^1.0.1",
     "chosen-js": "^1.6.2",
     "clipboard": "^1.7.1",
-    "datatables.net": "^1.10.15",
+    "datatables.net": "^1.11.3",
     "datatables.net-dt": "^1.10.15",
     "datatables.net-jqui": "^1.10.15",
     "es6-promise": "^4.1.1",
